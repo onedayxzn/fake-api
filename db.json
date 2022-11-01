@@ -15,13 +15,46 @@
           "lng": "81.1496"
         }
       }
+    },
+    {
+      "id": 2,
+      "name": "Hwang eun soo",
+      "username": "eun soo",
+      "email": "eun@april.biz",
+      "address": {
+        "street": "jong-ro",
+        "suite": "Apt. 556",
+        "city": "seoul",
+        "zipcode": "92998-3854",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      }
     }
   ],
   "cuti": [
     {
       "id": 1,
       "name": "Leanne Graham",
-      "username": "Bret"
+      "tanggal-pengajuan": "24-10-2022",
+      "jenis-cuti": "cuti tahunan",
+      "lama-cuti": "4",
+      "mulai-cuti": "30-10-2022",
+      "selesai-cuti": "2-11-2022",
+      "pertimbangan-atasan": "setuju",
+      "keputusan-pejabat": "tidak-setuju"
+    },
+    {
+      "id": 2,
+      "name": "Hwang eun soo",
+      "tanggal-pengajuan": "24-10-2022",
+      "jenis-cuti": "cuti tahunan",
+      "lama-cuti": "10",
+      "mulai-cuti": "30-10-2022",
+      "selesai-cuti": "2-11-2022",
+      "pertimbangan-atasan": "setuju",
+      "keputusan-pejabat": "tidak-setuju"
     }
   ]
 }
