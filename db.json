@@ -37,7 +37,7 @@
     {
       "id": 1,
       "name": "Leanne Graham",
-      "tanggal-pengajuan": "24-10-2022",
+      "tanggalpengajuan": "24-10-2022",
       "jenis-cuti": "cuti tahunan",
       "lama-cuti": "4",
       "mulai-cuti": "30-10-2022",
@@ -48,7 +48,7 @@
     {
       "id": 2,
       "name": "Hwang eun soo",
-      "tanggal-pengajuan": "24-10-2022",
+      "tanggalpengajuan": "24-10-2022",
       "jenis-cuti": "cuti tahunan",
       "lama-cuti": "10",
       "mulai-cuti": "30-10-2022",
