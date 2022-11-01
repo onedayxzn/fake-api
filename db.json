@@ -42,8 +42,8 @@
       "lama-cuti": "4",
       "mulai-cuti": "30-10-2022",
       "selesai-cuti": "2-11-2022",
-      "pertimbangan-atasan": "setuju",
-      "keputusan-pejabat": "tidak-setuju"
+      "pertimbanganatasan": "setuju",
+      "keputusanpejabat": "tidak-setuju"
     },
     {
       "id": 2,
@@ -53,8 +53,8 @@
       "lama-cuti": "10",
       "mulai-cuti": "30-10-2022",
       "selesai-cuti": "2-11-2022",
-      "pertimbangan-atasan": "tidak-setuju",
-      "keputusan-pejabat": "tidak-setuju"
+      "pertimbanganatasan": "tidak-setuju",
+      "keputusanpejabat": "tidak-setuju"
     }
   ]
 }
